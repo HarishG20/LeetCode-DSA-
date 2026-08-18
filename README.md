@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
