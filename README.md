@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
