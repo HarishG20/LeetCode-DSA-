@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0075-sort-colors) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0152-maximum-product-subarray) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
@@ -102,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
