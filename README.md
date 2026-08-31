@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0041-first-missing-positive) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
