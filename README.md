@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
