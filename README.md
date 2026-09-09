@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0242-valid-anagram) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0058-length-of-last-word) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
