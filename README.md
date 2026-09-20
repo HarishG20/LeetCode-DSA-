@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0066-plus-one) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0044-wildcard-matching) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
