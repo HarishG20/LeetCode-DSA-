@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0344-reverse-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
