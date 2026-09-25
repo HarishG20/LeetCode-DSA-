@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0647-palindromic-substrings) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Manacher
 |  |
