@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0567-permutation-in-string) |
 ## Manacher
 |  |
 | ------- |
