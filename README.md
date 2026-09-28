@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0303-range-sum-query-immutable) |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0567-permutation-in-string) |
@@ -241,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
