@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1425-constrained-subsequence-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1425-constrained-subsequence-sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1425-constrained-subsequence-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1425-constrained-subsequence-sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1425-constrained-subsequence-sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1425-constrained-subsequence-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1425-constrained-subsequence-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -250,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
