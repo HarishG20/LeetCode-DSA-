@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
