@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0066-plus-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0203-remove-linked-list-elements) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
