@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0234-palindrome-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
