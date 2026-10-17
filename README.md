@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0238-product-of-array-except-self) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
