@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0234-palindrome-linked-list) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0242-valid-anagram) |
