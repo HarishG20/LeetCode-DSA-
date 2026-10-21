@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
