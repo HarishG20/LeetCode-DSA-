@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0383-ransom-note) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0383-ransom-note) |
