@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0516-longest-palindromic-subsequence) |
@@ -357,4 +359,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
