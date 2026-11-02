@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0647-palindromic-substrings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
