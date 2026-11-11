@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0278-first-bad-version) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0682-baseball-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
