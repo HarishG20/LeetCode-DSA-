@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
