@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HarishG20/LeetCode-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0682-baseball-game) |
 ## Newton's Method
