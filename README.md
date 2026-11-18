@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0412-fizz-buzz) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0682-baseball-game) |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
