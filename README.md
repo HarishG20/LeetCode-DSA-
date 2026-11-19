@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
