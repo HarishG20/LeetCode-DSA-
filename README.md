@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0412-fizz-buzz) |
