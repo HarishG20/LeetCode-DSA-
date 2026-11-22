@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0367-valid-perfect-square) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
