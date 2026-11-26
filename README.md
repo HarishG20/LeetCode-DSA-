@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/HarishG20/LeetCode-DSA-/tree/master/0338-counting-bits) |
 ## Pigeonhole Principle
 |  |
 | ------- |
